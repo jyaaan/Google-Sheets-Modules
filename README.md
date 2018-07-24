@@ -1,6 +1,8 @@
 # Google-Sheets-Modules
 If I have to deal with Excel formulas any longer...
 
+NOTE: for those unfamiliar with Google Apps Script, it is a subset of ECMAScript 5 and it does not allow for the creation of classes.
+
 These Google Apps Script files are used to connect a Google Sheet to a Hubspot account via API for the purpose of deeper analysis and reporting. These reports were created and updated every hour and fed into a dashboard made in Google Data Studio.
 
 Linking of appointments to deals is possible with scripts in the appointments.gs file and allows for a better understanding of deal cycle lengths and sales/marketing touchpoints.
